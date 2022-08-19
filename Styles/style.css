@@ -29,9 +29,10 @@ html {
     0 6px 20px 0 rgba(0, 0, 0, 0.19);
   -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
     0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  border-radius: 5px;
+  border-radius: 20px;
   background-color: rgba(13, 57, 79, 0.151);
   border-bottom: 7px solid #2b608e;
+
   border-bottom-left-radius: 35px;
   border-bottom-right-radius: 35px;
 }
