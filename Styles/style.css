@@ -20,7 +20,6 @@ html {
   width: 350px;
   margin-top: auto;
   margin-bottom: auto;
-  box-shadow: royalblue 1px 1px 1px 1px;
   position: relative;
   display: flex;
   justify-content: center;
@@ -32,8 +31,9 @@ html {
     0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 5px;
   background-color: rgba(13, 57, 79, 0.151);
-
-  /* box-shadow: royalblue 0px 1px 0px 1px; */
+  border-bottom: 7px solid #2b608e;
+  border-bottom-left-radius: 35px;
+  border-bottom-right-radius: 35px;
 }
 .brand_logo_container {
   position: absolute;
